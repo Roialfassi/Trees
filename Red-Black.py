@@ -58,6 +58,7 @@ class Node():
         return lines, n + m + u, max(p, q) + 2, n + u // 2
 
 
+# Credit to https://favtutor.com/blogs/red-black-tree-python
 # Define R-B Tree
 class RBTree():
     def __init__(self):
