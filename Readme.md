@@ -7,7 +7,7 @@
 
 ## RED-Black Tree 
 
-- Find implementation at AVL.py From https://favtutor.com/blogs/red-black-tree-python
+- Find implementation at Red-Black.py From https://favtutor.com/blogs/red-black-tree-python
 - Visualization at - https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
 
 ## BPlus Tree
